@@ -1,0 +1,37 @@
+{
+  "name": "Are We There Yet",
+  "subtitle": "Releases for Are We There Yet",
+  "description": "The official AltStore Classic source for Are We There Yet.",
+  "iconURL": "https://raw.githubusercontent.com/robertdb3/AreWeThereYet-AltStore/main/icon.png",
+  "nsfw": false,
+  "apps": [
+    {
+      "name": "Are We There Yet",
+      "bundleIdentifier": "com.robertdb.AreWeThereYet",
+      "developerName": "robertdb3",
+      "localizedDescription": "Plan a drive and follow your progress, arrival time, road conditions, and departure advice.",
+      "iconURL": "https://raw.githubusercontent.com/robertdb3/AreWeThereYet-AltStore/main/icon.png",
+      "category": "utilities",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "buildVersion": "5",
+          "date": "2026-09-23",
+          "localizedDescription": "Release v1.0.0",
+          "downloadURL": "https://raw.githubusercontent.com/robertdb3/AreWeThereYet-AltStore/main/ipas/AreWeThereYet-v1.0.0-5.ipa",
+          "size": 9033255,
+          "sha256": "d2edf8c3a4a857de2cfc4e02f811dd4a5b9d8d6cd0b172348c4ba0c91586ca3f",
+          "minOSVersion": "18.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "Are We There Yet connects to your private tollcalc service to price route tolls.",
+          "NSLocationWhenInUseUsageDescription": "Your location is what draws live progress along the route and keeps the arrival time honest. During a trip it keeps tracking with the screen off, and stops as soon as the trip ends."
+        }
+      }
+    }
+  ],
+  "news": []
+}
