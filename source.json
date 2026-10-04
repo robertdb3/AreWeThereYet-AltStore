@@ -14,6 +14,16 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.3.1",
+          "buildVersion": "16",
+          "date": "2026-10-04",
+          "localizedDescription": "Release v1.3.1",
+          "downloadURL": "https://raw.githubusercontent.com/robertdb3/AreWeThereYet-AltStore/main/ipas/AreWeThereYet-v1.3.1-16.ipa",
+          "size": 11909300,
+          "sha256": "d9116af9c7a6299a5f1ea66a85b72c5f6337947d43d6a042417795dff912f875",
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "1.3.0",
           "buildVersion": "14",
           "date": "2026-10-04",
